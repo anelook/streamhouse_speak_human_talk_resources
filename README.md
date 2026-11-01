@@ -1,0 +1,1 @@
+# streamhouse_speak_human_talk_resources
