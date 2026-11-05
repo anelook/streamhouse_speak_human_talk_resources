@@ -4,6 +4,7 @@ Resources for exploring how streaming data can be made queryable by people and A
 
 ## Start here
 
+0. [What is Streamhouse?](https://developer.confluent.io/learn/streamhouse/) - Streamhouse explained
 1. [Lightning Tables — Overview](https://docs.confluent.io/cloud/current/lightning-tables/overview.html) — How Kafka data becomes queryable through materialized tables.
 2. [Real-Time Context Engine — Overview](https://docs.confluent.io/cloud/current/ai/real-time-context-engine/overview.html) — How AI agents access current Kafka data.
 3. [Get Started with the Real-Time Context Engine](https://docs.confluent.io/cloud/current/ai/real-time-context-engine/get-started.html) — Setup walkthrough.
